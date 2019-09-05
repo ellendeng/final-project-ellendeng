@@ -6,7 +6,7 @@ Wine selection is complicated and personal. The one you love doesn’t necessari
 This application can recommend the best wine at my favorite restaurant - Bottega Louie based on my taste and food pairing.
 
 Input:
-- wine list in jpg form from bottega louie website: https://www.bottegalouie.com/pages/information
+- wine list in jpg form from bottega louie. Please use the jpg file in the repository
 - wine information including style, food pairing and user rating: wine-search.com
 
 Output:
